@@ -22,8 +22,8 @@ func Investment() {
 	fmt.Scan(&inflationRate)
 	fmt.Print("Enter the Number of Years: ")
 	fmt.Scan(&years)
-	
-	var futureValue = investmentAmount * math.Pow((1+expectedReturnRate/100), float64(years))
+
+	futureValue := investmentAmount * math.Pow((1+expectedReturnRate/100), float64(years))
 	fmt.Println("Future Value of Investment: ", futureValue)
 	futureRealValue := futureValue / math.Pow((1+inflationRate/100), float64(years))
 	fmt.Printf("Future Real Value of Investment (adjusted for inflation): %.2f\n", futureRealValue)
