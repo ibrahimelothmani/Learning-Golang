@@ -1,0 +1,5 @@
+
+Go is a powerful programming language that provides excellent
+support for implementing data structures and algorithms. In this
+section, we’ll explore the fundamental building blocks that Go offers
+for working with structured data: arrays, slices, and maps.
