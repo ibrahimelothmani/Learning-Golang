@@ -6,6 +6,7 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 )
 
@@ -16,5 +17,13 @@ type Message struct {
 func main() {
 	h := Message{Hello: "world"}
 	//fmt.Printf("%s\n", h)
-	fmt.Printf("%+v\n", h)
+	//fmt.Printf("%+v\n", h)
+
+	AsString, _ := json.Marshal(h)
+	fmt.Printf("%s\n", AsString)
 }
+
+//Another way, and one that is often used to send and receive custom-defined structs
+//via HTTP, is to marshal the object to the universal JSON format.
+//This is a very custom way to print or parse data. Golang makes it very easy to achieve
+//this, using the encoding/json package included in the core libraries.
