@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Basics.iml" filepath="$PROJECT_DIR$/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Custom Data_Go Structs.iml" filepath="$PROJECT_DIR$/Custom Data_Go Structs.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Learn_Go.iml" filepath="$PROJECT_DIR$/.idea/Learn_Go.iml" />
       <module fileurl="file://$PROJECT_DIR$/Read from Input.iml" filepath="$PROJECT_DIR$/Read from Input.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reading from a File.iml" filepath="$PROJECT_DIR$/Reading from a File.iml" />
