@@ -15,5 +15,6 @@ type Message struct {
 
 func main() {
 	h := Message{Hello: "world"}
-	fmt.Printf("%s\n", h)
+	//fmt.Printf("%s\n", h)
+	fmt.Printf("%+v\n", h)
 }
