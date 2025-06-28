@@ -15,3 +15,4 @@ because more control is given to the developer to optimize the memory usage of t
 
 => The Go runtime just handles it for us automatically.
 
+one of the purposes of the Go runtime ==> TO CLEANUP UNUSED MEMORY
