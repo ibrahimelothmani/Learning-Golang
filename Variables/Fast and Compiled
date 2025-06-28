@@ -1,0 +1,9 @@
+
+Generally speaking, languages that compile directly to machine code produce programs that are faster than interpreted programs.
+
+Go is one of the fastest programming languages, beating JavaScript, Python, and Ruby handily in most benchmarks.
+
+However, Go programs don't run quite as fast as its compiled Rust, Zig, and C counterparts.
+That said, it compiles much faster than they do, which makes the developer experience super productive.
+Unfortunately, there are no swordfights on Go teams...
+
