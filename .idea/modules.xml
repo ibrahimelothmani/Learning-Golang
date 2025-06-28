@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Read from Input.iml" filepath="$PROJECT_DIR$/Read from Input.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reading a Struct from a File.iml" filepath="$PROJECT_DIR$/Reading a Struct from a File.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reading from a File.iml" filepath="$PROJECT_DIR$/Reading from a File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables.iml" filepath="$PROJECT_DIR$/Variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/Writing and Reading Structs from Files.iml" filepath="$PROJECT_DIR$/Writing and Reading Structs from Files.iml" />
     </modules>
   </component>
